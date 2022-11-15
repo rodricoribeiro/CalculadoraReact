@@ -1,3 +1,10 @@
+👋 Hi, I’m @rodricoribeiro
+👀 I’m interested in Coding
+🌱 I’m currently learning Mobile App and Java
+This repository is for the Dio project
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
